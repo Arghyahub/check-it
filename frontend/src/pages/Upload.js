@@ -38,7 +38,7 @@ export default function Upload() {
 
     const uploadImage = async (base64EncodedImage) => {
         try {
-            await fetch('/api/upload', {
+            await fetch('https://cheque.onrender.com/api/upload', {
                 method: 'POST',
                 body: JSON.stringify({ data: base64EncodedImage }),
                 headers: { 'Content-Type': 'application/json' },

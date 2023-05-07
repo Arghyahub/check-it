@@ -1,0 +1,22 @@
+{
+  "name": "cloudinary-react-and-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesqquick/cloudinary-react-and-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jamesqquick/cloudinary-react-and-node/issues"
+  },
+  "homepage": "https://github.com/jamesqquick/cloudinary-react-and-node#readme",
+  "description": "",
+  "dependencies": {
+    "react-router-dom": "^6.9.0"
+  }
+}
